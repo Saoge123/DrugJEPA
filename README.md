@@ -41,6 +41,11 @@ Pretrained models are from the Unimol repository, located in `ckpt/unimol_pretra
 - `mol_pre_no_h_220816.pt`: Molecular pretrained model, https://github.com/deepmodeling/Uni-Mol/releases/download/v0.1/mol_pre_no_h_220816.pt
 - `pocket_pre_220816.pt`: Pocket pretrained model, https://github.com/deepmodeling/Uni-Mol/releases/download/v0.1/pocket_pre_220816.pt
 
+## Training Data
+https://drive.google.com/drive/folders/15M_csRgiWOV_vx13fYIWS6b0JxGkNXEd?usp=sharing
+
+## Checkpoint
+https://drive.google.com/drive/folders/1tb7LA_AwRmYxPaxMzuLwP5dO2TGqY5ug?usp=sharing
 
 ## License
 
