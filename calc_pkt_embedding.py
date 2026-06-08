@@ -142,7 +142,7 @@ def pkt_embedding(model, pkt_loader):
 
 
 
-pocket_path = './pocket_files/TRUB1/pockets'
+pocket_path = './pocket_files/TYK2-JH2/pockets'
 ckpt_path = './ckpt/checkpoint_best.pt'
 device = 'cuda:0'
 
